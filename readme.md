@@ -27,10 +27,10 @@ Technolgy used in this webapp:
 - Streamlit
 
 ## Installation
-
-Install the dependencies and devDependencies and start the server.
+Use the following command and use this app
 
 ```sh
+https://github.com/techhunter2/utubedownloader
 cd utubedownloader
 python3 -m pip install --upgrade pytube
 pip install streamlit
