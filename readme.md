@@ -17,7 +17,7 @@ This app is created to download youtube videos, music, descriptions and subtitle
 
 Technolgy used in this webapp:
 
-- [Python] - HTML enhanced for web apps!
+- Python
 - Pytube
 - Streamlit
 
