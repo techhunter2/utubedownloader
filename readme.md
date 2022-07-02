@@ -30,7 +30,7 @@ Technolgy used in this webapp:
 Use the following command and use this app
 
 ```sh
-https://github.com/techhunter2/utubedownloader
+git clone https://github.com/techhunter2/utubedownloader
 cd utubedownloader
 python3 -m pip install --upgrade pytube
 pip install streamlit
